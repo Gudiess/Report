@@ -1,0 +1,98 @@
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\ApplicationInsights.config
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\roslyn\csc.exe
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\roslyn\vbc.exe
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\roslyn\VBCSCompiler.exe
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Report.dll.config
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Report.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Report.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\EntityFramework.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\EntityFramework.SqlServer.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Microsoft.AI.Web.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Microsoft.ApplicationInsights.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\System.Web.Helpers.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\System.Web.Mvc.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\System.Web.Razor.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\System.Web.Webpages.Deployment.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\System.Web.Webpages.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\System.Web.Webpages.Razor.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\EntityFramework.xml
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\EntityFramework.SqlServer.xml
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Microsoft.AI.Web.xml
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Microsoft.ApplicationInsights.xml
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\System.Web.Razor.xml
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\System.Web.Webpages.xml
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\System.Web.Webpages.Deployment.xml
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\System.Web.Webpages.Razor.xml
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\System.Web.Helpers.xml
+c:\users\dell\documents\visual studio 2015\Projects\Report\bin\System.Web.Mvc.xml
+c:\users\dell\documents\visual studio 2015\Projects\Report\obj\Debug\Report.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Report\obj\Debug\Report.dll
+c:\users\dell\documents\visual studio 2015\Projects\Report\obj\Debug\Report.pdb
+C:\Users\Gudies\Desktop\Report\obj\Debug\Report.dll
+C:\Users\Gudies\Desktop\Report\obj\Debug\Report.pdb
+C:\Users\Gudies\source\repos\Report\bin\ApplicationInsights.config
+C:\Users\Gudies\source\repos\Report\bin\Report.dll.config
+C:\Users\Gudies\source\repos\Report\bin\Report.dll
+C:\Users\Gudies\source\repos\Report\bin\Report.pdb
+C:\Users\Gudies\source\repos\Report\bin\EntityFramework.xml
+C:\Users\Gudies\source\repos\Report\bin\EntityFramework.SqlServer.xml
+C:\Users\Gudies\source\repos\Report\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gudies\source\repos\Report\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gudies\source\repos\Report\bin\Microsoft.AI.Web.xml
+C:\Users\Gudies\source\repos\Report\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gudies\source\repos\Report\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gudies\source\repos\Report\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gudies\source\repos\Report\bin\System.Web.Razor.xml
+C:\Users\Gudies\source\repos\Report\bin\System.Web.Webpages.xml
+C:\Users\Gudies\source\repos\Report\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Gudies\source\repos\Report\bin\System.Web.Webpages.Razor.xml
+C:\Users\Gudies\source\repos\Report\bin\System.Web.Helpers.xml
+C:\Users\Gudies\source\repos\Report\bin\System.Web.Mvc.xml
+C:\Users\Gudies\source\repos\Report\obj\Debug\Report.csprojAssemblyReference.cache
+C:\Users\Gudies\source\repos\Report\obj\Debug\Report.csproj.CoreCompileInputs.cache
+C:\Users\Gudies\source\repos\Report\obj\Debug\Report.csproj.CopyComplete
+C:\Users\Gudies\source\repos\Report\obj\Debug\Report.dll
+C:\Users\Gudies\source\repos\Report\obj\Debug\Report.pdb
+C:\Users\Admin\source\repos\Report\bin\ApplicationInsights.config
+C:\Users\Admin\source\repos\Report\bin\Report.dll.config
+C:\Users\Admin\source\repos\Report\bin\Report.dll
+C:\Users\Admin\source\repos\Report\bin\Report.pdb
+C:\Users\Admin\source\repos\Report\bin\EntityFramework.xml
+C:\Users\Admin\source\repos\Report\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\Report\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\source\repos\Report\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\source\repos\Report\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\source\repos\Report\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\source\repos\Report\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\source\repos\Report\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\source\repos\Report\bin\System.Web.Razor.xml
+C:\Users\Admin\source\repos\Report\bin\System.Web.Webpages.xml
+C:\Users\Admin\source\repos\Report\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\source\repos\Report\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\source\repos\Report\bin\System.Web.Helpers.xml
+C:\Users\Admin\source\repos\Report\bin\System.Web.Mvc.xml
+C:\Users\Admin\source\repos\Report\obj\Debug\Report.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Report\obj\Debug\Report.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Report\obj\Debug\Report.csproj.CopyComplete
+C:\Users\Admin\source\repos\Report\obj\Debug\Report.dll
+C:\Users\Admin\source\repos\Report\obj\Debug\Report.pdb

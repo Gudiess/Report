@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Report.Models.UserLogin>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.password)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.usersId)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.password)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.type)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.usersId)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.UserLogID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.UserLogID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.UserLogID })
+        </td>
+    </tr>
+}
+
+</table>

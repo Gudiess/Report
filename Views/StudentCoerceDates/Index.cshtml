@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Report.Models.StudentCoerceDate>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.StartDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PlanedFinishDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CourseId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserDetail.Name)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PlanedFinishDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CourseId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserDetail.Name)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.SCourseDateId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.SCourseDateId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.SCourseDateId })
+        </td>
+    </tr>
+}
+
+</table>

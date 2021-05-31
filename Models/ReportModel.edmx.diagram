@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="88ef4c99e76646ec8b39e57323b04ce7" Name="Diagram1">
+        <EntityTypeShape EntityType="Support_CenterModel.Class" Width="1.5" PointX="7.5" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Support_CenterModel.Course" Width="1.5" PointX="9.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Support_CenterModel.StudentClass" Width="1.5" PointX="5.25" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Support_CenterModel.StudentCoerceDate" Width="1.5" PointX="5.25" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Support_CenterModel.Subject" Width="1.5" PointX="12" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Support_CenterModel.UserDetail" Width="1.5" PointX="3" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Support_CenterModel.UserLogin" Width="1.5" PointX="0.75" PointY="2.875" IsExpanded="true" />
+        <AssociationConnector Association="Support_CenterModel.FK__Classes__Student__6754599E" ManuallyRouted="false" />
+        <AssociationConnector Association="Support_CenterModel.FK__Course__ClassId__6A30C649" ManuallyRouted="false" />
+        <AssociationConnector Association="Support_CenterModel.FK__Course__StudentC__6B24EA82" ManuallyRouted="false" />
+        <AssociationConnector Association="Support_CenterModel.FK__Subjects__Course__6E01572D" ManuallyRouted="false" />
+        <AssociationConnector Association="Support_CenterModel.FK__StudentCl__UserI__6477ECF3" ManuallyRouted="false" />
+        <AssociationConnector Association="Support_CenterModel.FK__StudentCo__UserI__619B8048" ManuallyRouted="false" />
+        <AssociationConnector Association="Support_CenterModel.FK__UserDetai__UserL__5EBF139D" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
